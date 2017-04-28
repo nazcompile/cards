@@ -1,8 +1,4 @@
-Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
+nazcompile.github.io
+-
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
-
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+Source for personal Github pages blogsite available at [https://nazcompile.github.io] (https://nazcompile.github.io) based on theme provided by [https://jekyll-themes.com](https://jekyll-themes.com)
